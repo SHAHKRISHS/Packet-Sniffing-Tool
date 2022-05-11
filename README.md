@@ -39,7 +39,7 @@ Screenshots
 Examples
 ---------------------
 
-**Example 1**
+## **Example 1**
 
 The below is the example that was done on testphp website for login.
 
@@ -51,7 +51,7 @@ The below is the example that was done on testphp website for login.
 
 ![This is a screenshot of the result](https://github.com/SHAHKRISHS/Packet-Sniffing-Tool/blob/main/Packet%20Sniffing/Capture%20the%20request%20of%20login.png)
 
-**Example 2**
+## **Example 2**
 
 The below is the example that was done on testphp website for commenting on the post.
 
