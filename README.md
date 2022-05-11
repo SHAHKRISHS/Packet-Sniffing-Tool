@@ -6,7 +6,7 @@ Installation
 ----------------
 
 ```
-$ git clone 
+$ git clone https://github.com/SHAHKRISHS/Packet-Sniffing-Tool.git
 ```
 
 ```bash
