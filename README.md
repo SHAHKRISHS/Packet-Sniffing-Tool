@@ -62,3 +62,12 @@ The below is the example that was done on testphp website for commenting on the 
 **Screenshot of the output**
 
 ![This is a screenshot of the result](https://github.com/SHAHKRISHS/Packet-Sniffing-Tool/blob/main/Packet%20Sniffing/Output%20of%20the%20testphp.png)
+
+
+
+Information
+---------------------
+
+Author: Krish Shah
+
+License: [MIT License](https://opensource.org/licenses/MIT)
