@@ -25,15 +25,15 @@ Screenshots
 
 **Selecting the option**
 
-![This is a option selection image](https://github.com/SHAHKRISHS/Packet-Sniffing-Tool/blob/main/Packet%20Sniffing/select%20option.png)
+![This is a option selection image](https://github.com/SHAHKRISHS/Packet-Sniffing-Tool/blob/main/Packet%20Sniffing/Select%20option.png)
 
 **Screenshot of the website**
 
-![This is a screenshot of the result]()
+![This is a screenshot of the result](https://github.com/SHAHKRISHS/Packet-Sniffing-Tool/blob/main/Packet%20Sniffing/Website%20screenshot.png)
 
 **Screenshot of the result**
 
-![This is a screenshot of the result]()
+![This is a screenshot of the result](https://github.com/SHAHKRISHS/Packet-Sniffing-Tool/blob/main/Packet%20Sniffing/output%20of%20the%20website.png)
 
 
 Examples
